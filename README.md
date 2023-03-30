@@ -30,7 +30,7 @@ Do plots like boxplots,countplot,distribution plot,histogram plot.
 
 DEVELOPED BY : SHARANGINI T K
 
-REG NO : 22003363
+REG NO : 212222230143
 ```
 import pandas as pd
 import numpy as np
